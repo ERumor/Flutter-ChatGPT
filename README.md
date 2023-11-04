@@ -1,10 +1,10 @@
 <p align="center">
-<img src="assets/images/ChatGPT.png" width="800">
+<img src="assets/images/ChatGPT.png" width="500">
 </p>
 
 ## About
 
-Chat GPT App built on flutter.
+Chat GPT App built on flutter. The neural network processes the application user's queries and produces a response to the query.
 
 ## Documentation
 
