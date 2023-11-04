@@ -1,16 +1,24 @@
-# flutter_gpt
+<p align="center">
+<img src="assets/images/ChatGPT.png" width="800">
+</p>
 
-A new Flutter project.
+## About
 
-## Getting Started
+Chat GPT App built on flutter.
 
-This project is a starting point for a Flutter application.
+## Documentation
 
-A few resources to get you started if this is your first Flutter project:
+**Features:**
+- Chat with ChatGPT, the user enters a query and receives a response from the neural network.
+- Saving the history of user requests and responses in the phone memory.
+- Ability to clear Chat.
+- Application splash screen with logo.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+**Stack:**
+- Visual Studio Code, Flutter/Dart. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Packages:** 
+- dash_chat_2, chat_gpt_sdk, flutter_native_splash, shared_preferences
+
+## Application show:
+
