@@ -11,7 +11,7 @@ Chat GPT App built on flutter.
 **Features:**
 - Chat with ChatGPT, the user enters a query and receives a response from the neural network.
 - Saving the history of user requests and responses in the phone memory.
-- Ability to clear Chat.
+- Ability to clear Chat history.
 - Application splash screen with logo.
 
 **Stack:**
