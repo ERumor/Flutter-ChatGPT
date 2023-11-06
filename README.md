@@ -21,4 +21,6 @@ Chat GPT App built on flutter. The neural network processes the application user
 - dash_chat_2, chat_gpt_sdk, flutter_native_splash, shared_preferences
 
 ## Application show:
+- Chat with GPT:
 
+![Flutter-GPT](https://github.com/ERumor/Flutter-ChatGPT/assets/57027295/7871c1ed-196a-4ae9-a440-fea598c0589f)
